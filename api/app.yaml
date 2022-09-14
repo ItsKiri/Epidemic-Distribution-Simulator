@@ -1,0 +1,12 @@
+runtime: nodejs16
+# env_variables:
+#   DATABASE_URL: 'mysql://ogsqqlimk8hp:pscale_pw_P-Ri7uzFb0I_0rcxGasmiFNBIpqcbfvEAKmX6segadQ@fq89cf9akw2m.us-east-2.psdb.cloud/deploy-test?sslaccept=strict'
+#   AUTH0_JWK_URI: "https://webassignment-3.us.auth0.com/.well-known/jwks.json"
+#   AUTH0_AUDIENCE: "https://api.todos"
+#   AUTH0_ISSUER: "https://webassignment-3.us.auth0.com/"
+#   PORT: 8080
+# DATABASE_URL='mysql://ogsqqlimk8hp:pscale_pw_P-Ri7uzFb0I_0rcxGasmiFNBIpqcbfvEAKmX6segadQ@fq89cf9akw2m.us-east-2.psdb.cloud/deploy-test?sslaccept=strict'
+
+# AUTH0_JWK_URI="https://webassignment-3.us.auth0.com/.well-known/jwks.json"
+# AUTH0_AUDIENCE="https://api.todos"
+# AUTH0_ISSUER="https://webassignment-3.us.auth0.com/"
