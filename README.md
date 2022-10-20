@@ -1,4 +1,4 @@
-Deployed URL: https://assignment3-blond.vercel.app/
+Deployed URL: https://epidemic-distribution-simulator.vercel.app/
 
 Front-end: React, Material UI
 
